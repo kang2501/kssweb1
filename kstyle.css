@@ -60,3 +60,15 @@ h3 {
     padding:15px;
     margin:10px;
 }
+.tac{
+    border: 2px dotted red;
+    float: right;
+}
+.ratio{
+    width: 70px;
+    height: 150px;
+    display: block;
+    
+
+
+}
